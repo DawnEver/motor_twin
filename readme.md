@@ -1,5 +1,7 @@
 # Motor Twin
-User interface of the final exp of embbed system.
+Digital twin of a motor control system.
+
+The user interface of the final exp of Course Embbed Systems.
 
 ## Tech Stack
 - Golang
