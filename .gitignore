@@ -1,0 +1,15 @@
+# env variables
+.env
+
+# build
+motor_twin
+
+# cert
+certs/
+
+# mac
+.DS_Store
+
+# models
+models/
+*.blender
