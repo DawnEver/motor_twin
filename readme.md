@@ -12,4 +12,4 @@ The user interface of the final exp of Course Embbed Systems.
     - threejs
     - blender
 
-![](presentation.png)
+<img src="./presentation.png">
