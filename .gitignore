@@ -11,5 +11,5 @@ certs/
 .DS_Store
 
 # models
-models/
+**/models/*.blend
 *.blender
