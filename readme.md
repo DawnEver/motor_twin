@@ -13,3 +13,17 @@ The user interface of the final exp of Course Embbed Systems.
     - blender
 
 <img src="./presentation.png">
+
+
+## .env Example
+Create .env in root directory
+Example:
+```
+ROUTE = '/motor'
+WEBPORT = 1145
+COMPORT = '/dev/tty.usbserial-1420'
+IP = "10.21.23.92"
+BAUDRATE = 115200
+DATABITS = 8
+STOPBIT = 1
+```
